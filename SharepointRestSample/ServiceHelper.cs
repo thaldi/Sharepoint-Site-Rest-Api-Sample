@@ -55,7 +55,7 @@ namespace SharepointRestSample
                 Console.ReadKey();
             }
             else
-                Console.WriteLine("json is null.");
+                Console.WriteLine("json is null or empty.");
         }
 
         private string GetResponseJson()
