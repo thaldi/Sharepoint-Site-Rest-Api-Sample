@@ -94,7 +94,7 @@ namespace SharepointRestSample
 
         public string GetImageUrl(int id)
         {
-            HttpWebRequest endPRequest = (HttpWebRequest)HttpWebRequest.Create(string.Format("{0}/_api/web/lists/getByTitle('MultipayBanner')/items?$filter=ID eq {1}&$select=FileRef/FileRef", StartBaseServiceUrl, id));
+            HttpWebRequest endPRequest = (HttpWebRequest)HttpWebRequest.Create(string.Format("{0}/_api/web/lists/getByTitle('listname')/items?$filter=ID eq {1}&$select=FileRef/FileRef", StartBaseServiceUrl, id));
 
             endPRequest.Method = "GET";
             endPRequest.Accept = "application/json;odata=verbose";
