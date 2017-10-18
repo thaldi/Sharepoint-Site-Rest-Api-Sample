@@ -1,0 +1,13 @@
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\SharepointRestSample.exe.config
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\SharepointRestSample.exe
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\SharepointRestSample.pdb
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\Newtonsoft.Json.dll
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\Newtonsoft.Json.xml
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\obj\Debug\SharepointRestSample.csproj.App.config
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\obj\Debug\SharepointRestSample.exe
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\obj\Debug\SharepointRestSample.pdb
+c:\users\ysu\documents\visual studio 2015\Projects\SharepointRestSample\SharepointRestSample\obj\Debug\SharepointRestSample.csprojResolveAssemblyReference.cache
